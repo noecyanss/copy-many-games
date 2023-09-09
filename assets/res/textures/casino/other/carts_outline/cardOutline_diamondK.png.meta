@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "6b569175-f59f-4ca2-ae85-b99003f44271",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 117,
+  "height": 170,
+  "platformSettings": {},
   "subMetas": {
     "cardOutline_diamondK": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "aa8cdd96-ba0d-43c3-9e46-37328c6e507a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6b569175-f59f-4ca2-ae85-b99003f44271",
       "trimType": "auto",
       "trimThreshold": 1,

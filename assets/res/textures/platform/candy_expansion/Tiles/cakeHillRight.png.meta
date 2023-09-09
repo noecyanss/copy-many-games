@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "2aaca66e-7bd9-4be1-bcd6-cb288f85035a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "cakeHillRight": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "59783aa9-d6d8-41a8-9a80-41ef9c95e30b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2aaca66e-7bd9-4be1-bcd6-cb288f85035a",
       "trimType": "auto",
       "trimThreshold": 1,

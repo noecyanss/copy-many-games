@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "22a7bb2d-e5cb-4b6e-a3c0-9077e83e8e17",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "laserGreenHorizontal": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "adc9627a-608d-4966-a13f-9d827d25a8ac",
+      "importer": "sprite-frame",
       "rawTextureUuid": "22a7bb2d-e5cb-4b6e-a3c0-9077e83e8e17",
       "trimType": "auto",
       "trimThreshold": 1,

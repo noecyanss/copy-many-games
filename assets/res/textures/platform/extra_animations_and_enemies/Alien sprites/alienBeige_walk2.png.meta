@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "34be2eb6-fe73-47ef-8feb-c4dd5ef465f1",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 96,
+  "platformSettings": {},
   "subMetas": {
     "alienBeige_walk2": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "ef4277b3-dbe6-4e49-8bab-8e0e279993b9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "34be2eb6-fe73-47ef-8feb-c4dd5ef465f1",
       "trimType": "auto",
       "trimThreshold": 1,

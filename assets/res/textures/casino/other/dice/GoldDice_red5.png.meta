@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "fa554b28-d59d-4a69-bc94-348697cf5ad2",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 95,
+  "height": 96,
+  "platformSettings": {},
   "subMetas": {
     "GoldDice_red5": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "a954d84f-e1af-4d8a-b124-906fab16f3fc",
+      "importer": "sprite-frame",
       "rawTextureUuid": "fa554b28-d59d-4a69-bc94-348697cf5ad2",
       "trimType": "auto",
       "trimThreshold": 1,

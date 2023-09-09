@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "2f597a24-193f-4939-8c09-a248802bb86e",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 117,
+  "height": 170,
+  "platformSettings": {},
   "subMetas": {
     "cardOutline_heartQ": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "037dfcc5-5ea6-4cb2-80ee-598734491f0c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2f597a24-193f-4939-8c09-a248802bb86e",
       "trimType": "auto",
       "trimThreshold": 1,

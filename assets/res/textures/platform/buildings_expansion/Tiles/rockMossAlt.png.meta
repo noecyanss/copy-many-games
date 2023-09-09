@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "5f0bed25-5903-4592-9c90-e12fcd163df8",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "rockMossAlt": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "baac80cc-e4f8-43b2-a5b0-2f0abf9785a9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "5f0bed25-5903-4592-9c90-e12fcd163df8",
       "trimType": "auto",
       "trimThreshold": 1,

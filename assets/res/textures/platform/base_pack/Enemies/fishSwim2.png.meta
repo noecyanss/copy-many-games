@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "4df833ec-1825-4918-9e48-a032ba39d8d2",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 62,
+  "height": 43,
+  "platformSettings": {},
   "subMetas": {
     "fishSwim2": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "ea9fc9e0-dd26-45e8-a7bd-e91afafd0c8a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4df833ec-1825-4918-9e48-a032ba39d8d2",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "a2a787c5-06e6-4511-91c1-f35f4b225c42",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "brickWall": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "7e267159-874f-4109-8cb1-b960ac8d9931",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a2a787c5-06e6-4511-91c1-f35f4b225c42",
       "trimType": "auto",
       "trimThreshold": 1,

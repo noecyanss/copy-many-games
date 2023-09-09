@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "fe921aea-4971-424c-a567-049a0b62d647",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "houseDarkAlt2": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "a97f6122-7060-4b81-bbad-5a7270d2d16c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "fe921aea-4971-424c-a567-049a0b62d647",
       "trimType": "auto",
       "trimThreshold": 1,

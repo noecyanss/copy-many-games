@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "fb3681dc-f727-40c4-96b4-d8a7b0a20991",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 57,
+  "height": 44,
+  "platformSettings": {},
   "subMetas": {
     "fishPink_hit": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "3eff8f7a-f8c9-44a0-a7e7-0615a0c88ac0",
+      "importer": "sprite-frame",
       "rawTextureUuid": "fb3681dc-f727-40c4-96b4-d8a7b0a20991",
       "trimType": "auto",
       "trimThreshold": 1,

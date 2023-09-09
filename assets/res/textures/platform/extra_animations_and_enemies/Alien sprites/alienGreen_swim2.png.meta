@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "49a103bb-9605-466f-923e-608fd90708c5",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 97,
+  "platformSettings": {},
   "subMetas": {
     "alienGreen_swim2": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "af0dea07-7f51-437b-a392-7045cedcc720",
+      "importer": "sprite-frame",
       "rawTextureUuid": "49a103bb-9605-466f-923e-608fd90708c5",
       "trimType": "auto",
       "trimThreshold": 1,

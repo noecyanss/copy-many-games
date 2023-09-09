@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "d9e3e22b-1dd9-443b-83ae-2a3f0358f967",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "bombFlash": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "cf35ca47-9bc9-49a5-9ca5-e0ea017afe59",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d9e3e22b-1dd9-443b-83ae-2a3f0358f967",
       "trimType": "auto",
       "trimThreshold": 1,

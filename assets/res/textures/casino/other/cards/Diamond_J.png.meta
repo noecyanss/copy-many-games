@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "2fdc460c-0d41-4dfd-9a04-6d5a54825ce6",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 132,
+  "height": 186,
+  "platformSettings": {},
   "subMetas": {
     "Diamond_J": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "0460327b-e326-4c29-95d1-0f4a2fbe1fef",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2fdc460c-0d41-4dfd-9a04-6d5a54825ce6",
       "trimType": "auto",
       "trimThreshold": 1,

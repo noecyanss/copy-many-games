@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "e31e2df3-1b57-42e8-92df-237598882ce9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 46,
+  "height": 36,
+  "platformSettings": {},
   "subMetas": {
     "hud_gem_green": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "0fe3ea5c-1c9e-4f9c-87d1-a6020abc69e7",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e31e2df3-1b57-42e8-92df-237598882ce9",
       "trimType": "auto",
       "trimThreshold": 1,

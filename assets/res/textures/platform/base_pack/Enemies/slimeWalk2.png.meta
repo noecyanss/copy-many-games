@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "999ee643-0303-4618-9792-889090c5f21b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 51,
+  "height": 26,
+  "platformSettings": {},
   "subMetas": {
     "slimeWalk2": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "e760d407-54ac-4d1b-aa06-29b53eec8184",
+      "importer": "sprite-frame",
       "rawTextureUuid": "999ee643-0303-4618-9792-889090c5f21b",
       "trimType": "auto",
       "trimThreshold": 1,

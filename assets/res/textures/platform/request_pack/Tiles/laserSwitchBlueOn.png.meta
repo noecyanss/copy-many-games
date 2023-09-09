@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "c56e6cbb-7fb1-4300-ab6f-0d9a1e4dcd0c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "laserSwitchBlueOn": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "645d5271-37b4-45a3-b476-ef66087fcc65",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c56e6cbb-7fb1-4300-ab6f-0d9a1e4dcd0c",
       "trimType": "auto",
       "trimThreshold": 1,

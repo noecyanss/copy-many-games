@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "2baf877c-75e4-4f93-b25d-fd06d2770c0c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "iglooRoofLeft": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "deb0076b-0590-43f6-b33d-b66e0a1f575e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2baf877c-75e4-4f93-b25d-fd06d2770c0c",
       "trimType": "auto",
       "trimThreshold": 1,

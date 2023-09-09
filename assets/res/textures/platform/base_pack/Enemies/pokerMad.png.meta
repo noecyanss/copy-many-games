@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "ad413ab7-39fb-4903-bfef-9a484ca256bb",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 48,
+  "height": 146,
+  "platformSettings": {},
   "subMetas": {
     "pokerMad": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "da744e78-6eff-47b1-aea7-49008b2bc9e2",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ad413ab7-39fb-4903-bfef-9a484ca256bb",
       "trimType": "auto",
       "trimThreshold": 1,

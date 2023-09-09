@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "c33cafe0-968d-415a-8ae9-711017e46c64",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 117,
+  "height": 171,
+  "platformSettings": {},
   "subMetas": {
     "cardOutline_clubs10": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "276079d5-52bb-4007-9bd0-22c3b7d42a43",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c33cafe0-968d-415a-8ae9-711017e46c64",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "4bc29a88-8f07-4822-9d80-f6774de3a6ec",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 500,
+  "height": 726,
+  "platformSettings": {},
   "subMetas": {
     "queen_of_spades2": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "842e2e19-1e3f-4c97-ab01-395e1d29bd86",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4bc29a88-8f07-4822-9d80-f6774de3a6ec",
       "trimType": "auto",
       "trimThreshold": 1,

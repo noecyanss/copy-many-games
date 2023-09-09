@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "270ee71a-c9d6-4df1-be0f-1698f311d8c8",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "castleHillRight2": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "095192d9-2e65-46e4-b4c1-22fe0fc471b3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "270ee71a-c9d6-4df1-be0f-1698f311d8c8",
       "trimType": "auto",
       "trimThreshold": 1,

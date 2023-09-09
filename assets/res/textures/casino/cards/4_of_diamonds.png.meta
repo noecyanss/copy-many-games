@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "ac1b3621-8ae2-4248-8fce-9985c2ee3421",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 500,
+  "height": 726,
+  "platformSettings": {},
   "subMetas": {
     "4_of_diamonds": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "e93cdcaa-4fc1-4a07-ae1a-7c3fb9c3ea74",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ac1b3621-8ae2-4248-8fce-9985c2ee3421",
       "trimType": "auto",
       "trimThreshold": 1,

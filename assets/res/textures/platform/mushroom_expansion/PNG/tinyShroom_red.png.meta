@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "afe816d1-ac43-44eb-a531-0a570d8e1423",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "tinyShroom_red": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "5b51c77f-8b64-4735-9a8c-c2c6884393c2",
+      "importer": "sprite-frame",
       "rawTextureUuid": "afe816d1-ac43-44eb-a531-0a570d8e1423",
       "trimType": "auto",
       "trimThreshold": 1,

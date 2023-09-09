@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "4ff676aa-e0e9-4c1b-b0a2-8c70051d7d4b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 100,
+  "platformSettings": {},
   "subMetas": {
     "alienBeige_swim2": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "de6ebe3b-f2c6-4bab-8428-1ef8b3e13e78",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4ff676aa-e0e9-4c1b-b0a2-8c70051d7d4b",
       "trimType": "auto",
       "trimThreshold": 1,

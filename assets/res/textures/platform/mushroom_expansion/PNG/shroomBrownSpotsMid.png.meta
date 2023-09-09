@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "7d97d7fb-b767-4de5-8c3e-bc5b10ba10c0",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "shroomBrownSpotsMid": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "dd8c5c94-091d-41a1-9178-7e98df665677",
+      "importer": "sprite-frame",
       "rawTextureUuid": "7d97d7fb-b767-4de5-8c3e-bc5b10ba10c0",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "eac4ea40-7137-44a3-bc7f-8e705b6deb33",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "iceWaterDeepStarsAlt": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "fcc80347-7ccb-4ee3-a168-a76cb0f96e51",
+      "importer": "sprite-frame",
       "rawTextureUuid": "eac4ea40-7137-44a3-bc7f-8e705b6deb33",
       "trimType": "auto",
       "trimThreshold": 1,

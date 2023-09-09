@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "18bedffb-e976-4c61-bcd8-d0456980f908",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "snowHillLeft2": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "c24aabc3-22fd-461d-bc14-cab02fea5bea",
+      "importer": "sprite-frame",
       "rawTextureUuid": "18bedffb-e976-4c61-bcd8-d0456980f908",
       "trimType": "auto",
       "trimThreshold": 1,

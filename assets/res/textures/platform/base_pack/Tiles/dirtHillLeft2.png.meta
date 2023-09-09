@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "8e7fd2ec-97f9-457f-abb1-ff5fdecd1ed0",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "dirtHillLeft2": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "7ea85f15-a66c-49b4-82cc-4529f3c8602b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "8e7fd2ec-97f9-457f-abb1-ff5fdecd1ed0",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "7b9d3fdd-aed0-44c5-9d3a-4d273cff414c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 49,
+  "height": 34,
+  "platformSettings": {},
   "subMetas": {
     "slimeGreen_dead": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "a2911577-9b3e-47cb-ae0a-cf5e40691eed",
+      "importer": "sprite-frame",
       "rawTextureUuid": "7b9d3fdd-aed0-44c5-9d3a-4d273cff414c",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "8ea2f7bc-f307-4e7f-9ec0-4468aeea70c3",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "swordBronze": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "cc22e96d-f646-4dba-aabe-c83c101a1041",
+      "importer": "sprite-frame",
       "rawTextureUuid": "8ea2f7bc-f307-4e7f-9ec0-4468aeea70c3",
       "trimType": "auto",
       "trimThreshold": 1,

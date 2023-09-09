@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "57cd942e-671b-40bc-99d1-238777eb61be",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "liquidWaterTop": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "208bf95c-1568-4eb4-af27-96ebb34f0129",
+      "importer": "sprite-frame",
       "rawTextureUuid": "57cd942e-671b-40bc-99d1-238777eb61be",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "2121d4f9-1cab-437a-b412-ec2fa28f58b0",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "hillCaneChoco": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "42470600-684f-4fa0-ae0e-d0ebba174c07",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2121d4f9-1cab-437a-b412-ec2fa28f58b0",
       "trimType": "auto",
       "trimThreshold": 1,

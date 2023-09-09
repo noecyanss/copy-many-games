@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "62c5535b-7e0c-4024-9500-2bbd119d1c54",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 500,
+  "height": 726,
+  "platformSettings": {},
   "subMetas": {
     "9_of_diamonds": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "44c39e6c-0d52-4a96-862b-4aeb7827412c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "62c5535b-7e0c-4024-9500-2bbd119d1c54",
       "trimType": "auto",
       "trimThreshold": 1,

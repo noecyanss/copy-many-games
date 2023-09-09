@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "ba8b3e30-7f39-4831-b685-a80b3eaeb8b0",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "lollipopFruitGreen": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "b21c33b6-7e92-4e68-9ce3-9c4bc5c02a61",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ba8b3e30-7f39-4831-b685-a80b3eaeb8b0",
       "trimType": "auto",
       "trimThreshold": 1,

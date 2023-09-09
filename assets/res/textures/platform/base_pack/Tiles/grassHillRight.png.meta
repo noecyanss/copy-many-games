@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "c8f5b112-556e-4ea7-8129-b64c6f0006a3",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "grassHillRight": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "76b3e5d2-dc7f-4ffe-b88d-ed3c2a21d5d0",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c8f5b112-556e-4ea7-8129-b64c6f0006a3",
       "trimType": "auto",
       "trimThreshold": 1,

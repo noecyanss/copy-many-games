@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "e6d94f58-d2f9-4f69-b351-2a5452ab7810",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 70,
+  "platformSettings": {},
   "subMetas": {
     "rockHillRight": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "565eac3c-80ab-4672-bebf-4f3c9b9bbc12",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e6d94f58-d2f9-4f69-b351-2a5452ab7810",
       "trimType": "auto",
       "trimThreshold": 1,

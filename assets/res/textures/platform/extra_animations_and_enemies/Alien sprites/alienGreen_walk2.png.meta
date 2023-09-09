@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "6f2e10a4-5b62-48bf-8888-3218aa77b060",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 70,
+  "height": 96,
+  "platformSettings": {},
   "subMetas": {
     "alienGreen_walk2": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "b569b6c6-50bd-4c85-8528-ead76250d384",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6f2e10a4-5b62-48bf-8888-3218aa77b060",
       "trimType": "auto",
       "trimThreshold": 1,

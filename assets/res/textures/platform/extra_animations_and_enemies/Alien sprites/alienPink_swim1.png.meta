@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "732e07fa-377e-4eee-b872-3e4c21eba014",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 69,
+  "height": 95,
+  "platformSettings": {},
   "subMetas": {
     "alienPink_swim1": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "2ca76267-d83f-4af7-9df0-08160f59e9f6",
+      "importer": "sprite-frame",
       "rawTextureUuid": "732e07fa-377e-4eee-b872-3e4c21eba014",
       "trimType": "auto",
       "trimThreshold": 1,

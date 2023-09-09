@@ -1,14 +1,21 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.7",
   "uuid": "e618e6c4-4395-4c0f-aac8-e02131fe58e7",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 95,
+  "height": 96,
+  "platformSettings": {},
   "subMetas": {
     "blackDice_red1": {
-      "ver": "1.0.3",
+      "ver": "1.0.6",
       "uuid": "b33ae04b-5060-43ad-8800-42a867bd5792",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e618e6c4-4395-4c0f-aac8-e02131fe58e7",
       "trimType": "auto",
       "trimThreshold": 1,
